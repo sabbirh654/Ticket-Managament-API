@@ -1,0 +1,6 @@
+@ETM.API_HostAddress = http://localhost:5223
+
+GET {{ETM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
